@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "3M SCOTCH",
+        "Price": "434.00",
+        "img": "assets/images/3M SCOTCH.jpg"
+    },
+    {
+        "Name": "Double A Professional",
+        "Price": "14.00",
+        "img": "assets/images/Double A Professional.jpg"
+    },
+    {
+        "Name": "Atom QM-220",
+        "Price": "57.00",
+        "img": "assets/images/Atom QM-220.jpg"
+    },
+    {
+        "Name": "PENTEL PENTO",
+        "Price": "57.00",
+        "img": "assets/images/PENTEL PENTO.jpg"
+    },
+    {
+        "Name": "Zebra MILDLINER",
+        "Price": "60.00",
+        "img": "assets/images/Zebra MILDLINER.jpg"
+    }
+]

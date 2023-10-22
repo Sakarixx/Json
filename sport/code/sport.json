@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "NIKE Elite Tournament",
+        "Price": "1743.00",
+        "img": "assets/images/NIKE Elite Tournament.jpg"
+    },
+    {
+        "Name": "S SPORTS SPQ221",
+        "Price": "650.00",
+        "img": "assets/images/S SPORTS SPQ221.jpg"
+    },
+    {
+        "Name": "YONEX Mavis 350",
+        "Price": "190.00",
+        "img": "assets/images/YONEX Mavis 350.jpg"
+    },
+    {
+        "Name": "S SPORTS 3 Star 01",
+        "Price": "129.00",
+        "img": "assets/images/S SPORTS 3 Star 01.jpg"
+    },
+    {
+        "Name": "S SPORTS 3 Star 06",
+        "Price": "75.00",
+        "img": "assets/images/S SPORTS 3 Star 06.jpg"
+    }
+]
